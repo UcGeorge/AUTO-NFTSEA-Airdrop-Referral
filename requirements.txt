@@ -1,0 +1,4 @@
+selenium
+pyfiglet
+PyInquirer
+pyperclip
